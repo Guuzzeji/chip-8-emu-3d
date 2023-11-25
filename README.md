@@ -4,6 +4,8 @@ A Golang Chip-8 emulator that runs in 3D, through the power of raylib. There are
 
 ## Video Demo
 
+https://github.com/Guuzzeji/chip-8-emu-3d/assets/46883697/b567106d-f98d-4462-93a9-1931ecf455b1
+
 ## How to run
 
 ```bash
